@@ -1,6 +1,6 @@
 # MED-ON-CHAIN
 
-MED-ON-CHAIN is a web based Dapp that allows to store and transfer important assets, recordsd on IPFS instance. Ownership of files is securely recorded on the Ethereum blockchain making it the best platform to store assets
+MED-ON-CHAIN is a web based Dapp that allows to store and transfer important assets, records on IPFS instance. Ownership of files is securely recorded on the Ethereum blockchain making it the best platform to store assets
 
 
 ## Features
